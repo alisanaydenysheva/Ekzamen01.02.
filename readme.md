@@ -84,3 +84,8 @@
   
 </table>
 <h2>Скриншот выполнения</h2>
+
+![image](https://user-images.githubusercontent.com/93647369/177009903-e6d4b66f-dc76-4af6-b37f-b9b15f0b50c5.png)
+
+
+
