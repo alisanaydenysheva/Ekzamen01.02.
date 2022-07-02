@@ -1,0 +1,10 @@
+D:\Docs\NaydenishevaEkzamen\ClassLib\ClassLib\bin\Debug\netstandard2.0\ClassLib.deps.json
+D:\Docs\NaydenishevaEkzamen\ClassLib\ClassLib\bin\Debug\netstandard2.0\ClassLib.dll
+D:\Docs\NaydenishevaEkzamen\ClassLib\ClassLib\bin\Debug\netstandard2.0\ClassLib.pdb
+D:\Docs\NaydenishevaEkzamen\ClassLib\ClassLib\obj\Debug\netstandard2.0\ClassLib.csproj.AssemblyReference.cache
+D:\Docs\NaydenishevaEkzamen\ClassLib\ClassLib\obj\Debug\netstandard2.0\ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\NaydenishevaEkzamen\ClassLib\ClassLib\obj\Debug\netstandard2.0\ClassLib.AssemblyInfoInputs.cache
+D:\Docs\NaydenishevaEkzamen\ClassLib\ClassLib\obj\Debug\netstandard2.0\ClassLib.AssemblyInfo.cs
+D:\Docs\NaydenishevaEkzamen\ClassLib\ClassLib\obj\Debug\netstandard2.0\ClassLib.csproj.CoreCompileInputs.cache
+D:\Docs\NaydenishevaEkzamen\ClassLib\ClassLib\obj\Debug\netstandard2.0\ClassLib.dll
+D:\Docs\NaydenishevaEkzamen\ClassLib\ClassLib\obj\Debug\netstandard2.0\ClassLib.pdb
